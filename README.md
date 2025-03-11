@@ -1,6 +1,6 @@
-# Build a Complete Project Management Dashboard
-
-## Technology Stack
+ # Build a Complete Project Management Dashboard
+  This repository contains the code for a Project Management Dashboard built using Next.js, Node.js, and AWS services.
+ ## Technology Stack
 
 - **Frontend**: Next.js, Tailwind CSS, Redux Toolkit, Redux Toolkit Query, Material UI Data Grid
 - **Backend**: Node.js with Express, Prisma (PostgreSQL ORM)
